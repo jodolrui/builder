@@ -1,8 +1,8 @@
 {
-  "name": "builder",
+  "name": "@jodolrui/builder",
   "version": "1.0.0",
   "description": "Multiple items builder",
-  "main": "index.js",
+  "main": "builder.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,8 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/jodolrui/builder.git"
   },
-  "author": "",
+  "author": "Jose Dolz",
   "license": "MIT",
+  "types": "./builder.d.ts",
   "bugs": {
     "url": "https://github.com/jodolrui/builder/issues"
   },
